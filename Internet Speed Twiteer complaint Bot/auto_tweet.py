@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 
 PROMISED_DOWN = 100
 PROMISED_UP = 10
-TWITTER_LOGIN = "jack_pythonchi"
-TWITTER_PASSWORD = "@Cengineer13"
+TWITTER_LOGIN = "your twetter account"
+TWITTER_PASSWORD = "your password"
 
 
 
